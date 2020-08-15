@@ -5,6 +5,8 @@ print(sum)
 product = a*b
 print(product)
 sub = a-b
-print(a-b)
+print(
 print("This is fun!!")
 print("Just for practice")
+print("Intro to Github")
+print("Machine Learning")
