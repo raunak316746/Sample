@@ -4,3 +4,5 @@ sum = a+b
 print(sum)
 product = a*b
 print(product)
+sub = a-b
+print(a-b)
