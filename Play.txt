@@ -6,3 +6,5 @@ product = a*b
 print(product)
 sub = a-b
 print(a-b)
+print("This is fun!!")
+print("Just for practice")
